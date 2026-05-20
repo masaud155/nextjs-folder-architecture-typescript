@@ -2,6 +2,8 @@
 
 A practical Next.js App Router starter architecture for large production applications.
 
+GitHub: [masaud155/nextjs-folder-architecture-typescript](https://github.com/masaud155/nextjs-folder-architecture-typescript)
+
 ## Why this repo exists
 
 Large Next.js projects become hard to maintain when every component, action, query, and helper drifts into `app/` or a global `components/` folder. This repository demonstrates a production-minded folder structure where routing, features, domain models, shared UI, infrastructure, and configuration each have clear ownership.
