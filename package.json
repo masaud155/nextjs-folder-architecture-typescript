@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-scalable-folder-structure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A practical Next.js App Router starter architecture for large production applications.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.1",
+    "eslint-config-next": "16.2.6",
+    "prettier": "^3.7.1",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^6.0.0"
+  }
+}
