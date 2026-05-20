@@ -24,6 +24,9 @@ The app is intentionally small, but the boundaries mirror how a larger product c
 
 ## Folder Structure Overview
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/735b0865-2c1b-4a1d-9ee8-45253d005cc1" />
+
+
 ```txt
 src/
   app/          Routing, layouts, loading states, errors, and route composition
